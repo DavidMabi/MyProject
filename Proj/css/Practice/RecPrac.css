@@ -1,0 +1,45 @@
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Oxygen:wght@300&display=swap");
+.container {
+  margin-top: 3%;
+  width: 25vw;
+  border: 1px solid;
+  padding: 10px;
+  -webkit-box-shadow: 5px 10px;
+          box-shadow: 5px 10px;
+}
+
+.container h1 {
+  font-family: 'Oxygen',serif;
+}
+
+@media (min-width: 576px) {
+  .container {
+    width: 50vw;
+  }
+}
+
+@media (min-width: 768px) {
+  .container {
+    width: 50vw;
+  }
+}
+
+@media (min-width: 992px) {
+  .container {
+    width: 45vw;
+  }
+}
+
+@media (min-width: 1200px) {
+  .container {
+    width: 40vw;
+  }
+}
+
+@media (min-width: 1400px) {
+  .container {
+    width: 25vw;
+  }
+}
+/*# sourceMappingURL=RecPrac.css.map */
